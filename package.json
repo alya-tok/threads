@@ -1,0 +1,32 @@
+{
+  "name": "@moonr/threads",
+  "version": "1.0.1",
+  "description": "Threads scraper search info and post from threads.net",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alya-tok/threads.git"
+  },
+  "keywords": [
+    "threads-dl",
+    "threads-api",
+    "threads-scraper",
+    "threads-sdk",
+    "scraper-threads",
+    "threads-search",
+    "threads-post",
+    "api-threads"
+  ],
+  "author": "alya-tok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alya-tok/threads/issues"
+  },
+  "homepage": "https://github.com/alya-tok/threads#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
